@@ -16,5 +16,10 @@ namespace Speech
         {
             InitializeComponent();
         }
+
+        private void BtnActivate_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
