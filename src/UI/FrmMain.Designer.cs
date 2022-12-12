@@ -58,6 +58,7 @@
             this.BtnDeactivate.TabIndex = 2;
             this.BtnDeactivate.Text = "Deactivate";
             this.BtnDeactivate.UseVisualStyleBackColor = true;
+            this.BtnDeactivate.Click += new System.EventHandler(this.BtnDeactivate_Click);
             // 
             // FrmMain
             // 
